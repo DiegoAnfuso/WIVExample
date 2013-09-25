@@ -8,3 +8,8 @@ Features:
 - Disk cache.
 - Handles URL redirections.
 - Allows to set a local image for showing during load and in case of error.
+
+Contact: 
+
+Email: diegoanfuso@gmail.com
+Twitter: @diegoanfuso
